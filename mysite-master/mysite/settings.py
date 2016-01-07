@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'mysite_db',
         'PORT': '5432',
         'USER': 'pyuser',
-        'PASSWORD': 'mysite2016',
+        'PASSWORD': 'pyuser123!',
         'TEST': {
             'NAME': 'mysite_db_test',
         },
